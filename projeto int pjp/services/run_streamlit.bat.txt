@@ -1,0 +1,3 @@
+@echo off
+python -m streamlit run "D:\site\python\senav\EXER\projeto int pjp\interface.py"
+pause
